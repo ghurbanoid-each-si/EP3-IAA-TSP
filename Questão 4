@@ -1,0 +1,9 @@
+#Qual a complexidade de tempo e de espaço do algoritmo? Apresente links para as referências que usou.
+
+No pior caso o algoritmo possui complexidade de O(n³)
+
+links utilizados de referencia:
+
+https://docs.ufpr.br/~volmir/PO_II/A_7_TSP.pdf
+https://compgeek.co.in/christofides-algorithm/#google_vignette
+https://en.wikipedia.org/wiki/Christofides_algorithm
