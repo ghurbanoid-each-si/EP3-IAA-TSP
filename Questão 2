@@ -1,0 +1,8 @@
+#Qual é a estimativa de erro do algoritmo? Explique e apresente links para as referências que usou.
+
+A estimativa de erro é que o algoritmo pode resultar em um resultado de até 3/2 do tamanho da solução ótima
+
+Links utilizados para referência:
+
+https://en.wikipedia.org/wiki/Christofides_algorithm
+https://compgeek.co.in/christofides-algorithm/
