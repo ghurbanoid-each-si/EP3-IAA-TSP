@@ -2,8 +2,12 @@
 
 No pior caso o algoritmo possui complexidade de O(n³)
 
+A complexidade de espaço de O(V²) onde V é o numero de vertices
+
 links utilizados de referencia:
 
 https://docs.ufpr.br/~volmir/PO_II/A_7_TSP.pdf
 https://compgeek.co.in/christofides-algorithm/#google_vignette
 https://en.wikipedia.org/wiki/Christofides_algorithm
+
+
