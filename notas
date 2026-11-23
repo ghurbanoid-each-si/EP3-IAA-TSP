@@ -1,0 +1,17 @@
+Exemplo de compilação:
+
+cristofanes.c
+
+1. extraia o arquivo compactado;
+2. na pasta extraída, digitre o comando;
+  gcc cristofanes.c -o cristofanes.exe;
+3. execute o programa gerado cristofanes.exe;
+
+
+
+backtracking_tsp.c
+
+1. extraia o arquivo compactado;
+2. na pasta extraída, digitre o comando;
+  gcc backtracking_tsp.c -o backtracking.exe;
+3. execute o programa gerado backtracking.exe;
