@@ -28,3 +28,5 @@ Enter adjacency matrix (4 x 4):
 Nesse exemplo:
 Minimum cost: 80
 Path: 0 1 3 2 0
+
+Comparando os dois podemos ver que a margem de erro está dentro do valor de 3/2 no máximo de diferença.
